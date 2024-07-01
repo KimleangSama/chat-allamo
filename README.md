@@ -79,7 +79,9 @@ I am quite new to the Flutter community and would appreciate any contributions t
 <img src="screenshots/5.PNG" alt="Chat Actions" width="400"/>
 <img src="screenshots/6.PNG" alt="Model List" width="400"/>
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#KimleangSama/chat-allamo&Date" frameBorder="0"></iframe>
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KimleangSama/chat-allamo&type=Date)](https://star-history.com/#KimleangSama/chat-allamo&Date)
 
 # License and Copyrights
 
